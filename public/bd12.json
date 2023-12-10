@@ -515,5 +515,16 @@
         "album": "Spider-Man: Across the Spider-Verse (Original Score)",
         "numero_de_pista": "34/34",
         "Año": "2023"
+    },
+    {
+        "archivo_musica": "Albums/198274423_1.flac",
+        "descripcion": "198274423",
+        "imagen": "Albums/198274423.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Enemy (From the series Arcane League of Legends)",
+        "artista": "Imagine Dragons, Arcane & League of Legends",
+        "album": "Enemy (from the series Arcane League of Legends)",
+        "numero_de_pista": "1/1",
+        "Año": "2021"
     }
 ]

@@ -526,5 +526,115 @@
         "album": "Enemy (from the series Arcane League of Legends)",
         "numero_de_pista": "1/1",
         "Año": "2021"
+    },
+    {
+        "archivo_musica": "Albums/198274424_1.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "The Lucky One",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "1/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_2.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Self Control",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "2/10",
+        "Año": "1983"
+    },
+    {
+        "archivo_musica": "Albums/198274424_3.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Ti Amo",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "3/10",
+        "Año": "1983"
+    },
+    {
+        "archivo_musica": "Albums/198274424_4.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Heart",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "4/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_5.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Will You Still Love Me Tomorrow",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "5/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_6.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Satisfaction",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "6/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_7.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Silent Partners",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "7/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_8.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Breaking Out",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "8/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_9.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "Take Me",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "9/10",
+        "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274424_10.flac",
+        "descripcion": "198274424",
+        "imagen": "Albums/198274424.jpg",
+        "genero": "Pop",
+        "titulo": "With Every Beat of My Heart",
+        "artista": "Laura Branigan",
+        "album": "Self Control",
+        "numero_de_pista": "10/10",
+        "Año": "1984"
     }
 ]

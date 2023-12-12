@@ -636,5 +636,148 @@
         "album": "Self Control",
         "numero_de_pista": "10/10",
         "Año": "1984"
+    },
+    {
+        "archivo_musica": "Albums/198274425_1.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Hero (feat. Sweptaways)",
+        "artista": "Kleerup feat. The Sweptaways",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "1/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_2.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Until We Bleed (feat. Lykke Li)",
+        "artista": "Kleerup feat. Lykke Li",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "2/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_3.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Thank You for Nothing",
+        "artista": "Kleerup",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "3/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_4.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "With Every Heartbeat",
+        "artista": "Kleerup & Robyn",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "4/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274425_5.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Tower of Trellick",
+        "artista": "Kleerup",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "5/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_6.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Longing for Lullabies (feat. Titiyo)",
+        "artista": "Kleerup feat. Titiyo",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "6/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_7.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Music for Girl (feat. Lisa Milberg)",
+        "artista": "Kleerup feat. Lisa Milberg",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "7/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_8.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Chords",
+        "artista": "Kleerup",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "8/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_9.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "Forever (feat. Neneh Cherry)",
+        "artista": "Kleerup feat. Neneh Cherry",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "9/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_10.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "3am (feat. Marit Bergman)",
+        "artista": "Kleerup feat. Marit Bergman",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "10/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_11.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "On My Own Again",
+        "artista": "Kleerup",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "11/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_12.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "I Just Want to Make That Sad Boy Smile",
+        "artista": "Kleerup",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "12/13",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274425_13.flac",
+        "descripcion": "198274425",
+        "imagen": "Albums/198274425.jpg",
+        "genero": "Pop",
+        "titulo": "History (feat. Linda Sundblad)",
+        "artista": "Kleerup feat. Linda Sundblad",
+        "album": "Kleerup (Bonus Track Version)",
+        "numero_de_pista": "13/13",
+        "Año": "2009"
     }
 ]

@@ -779,5 +779,93 @@
         "album": "Kleerup (Bonus Track Version)",
         "numero_de_pista": "13/13",
         "Año": "2009"
+    },
+    {
+        "archivo_musica": "Albums/198274426_1.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "Sin Sobresaltos (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "1/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_2.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "El Rito (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "2/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_3.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "Prófugos (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "3/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_4.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "No Existes (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "4/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_5.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "Persiana Americana (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "5/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_6.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "En Camino (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "6/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_7.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "Signos (Remasterizado 2007)",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "7/8",
+        "Año": "1986"
+    },
+    {
+        "archivo_musica": "Albums/198274426_8.flac",
+        "descripcion": "198274426",
+        "imagen": "Albums/198274426.jpg",
+        "genero": "Latin Music",
+        "titulo": "Final Caja Negra (Remasterizado 2007) [Explicit]",
+        "artista": "Soda Stereo",
+        "album": "Signos (Remastered)",
+        "numero_de_pista": "8/8",
+        "Año": "1986"
     }
 ]
